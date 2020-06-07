@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/OldServices
+/ConsoleClientApp/bin/Debug/netcoreapp3.1
+/ConsoleClientApp/obj
+/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1
+/WCFTest/bin
+/WCFTest/obj/Debug
+/WebService/bin
+/WebService/obj/Debug

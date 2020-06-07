@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebService", "WebService\WebService.csproj", "{FFD5EB12-54BA-463E-AB31-8B83A80E1711}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFTest", "WCFTest\WCFTest.csproj", "{5084B86C-886E-4A79-93A8-8CFD9F2057CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceClientTest", "..\ConsoleApp1\ConsoleApp1\ServiceClientTest.csproj", "{6AC1D52E-BF62-47F9-970C-EECB48A8C93B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HtmlClient", "HtmlClient", "{412DCDDE-7B24-4AB0-90EC-6E7DF67099EB}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\TestAPI\index.html = ..\..\..\Desktop\TestAPI\index.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFD5EB12-54BA-463E-AB31-8B83A80E1711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD5EB12-54BA-463E-AB31-8B83A80E1711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD5EB12-54BA-463E-AB31-8B83A80E1711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD5EB12-54BA-463E-AB31-8B83A80E1711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5084B86C-886E-4A79-93A8-8CFD9F2057CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5084B86C-886E-4A79-93A8-8CFD9F2057CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5084B86C-886E-4A79-93A8-8CFD9F2057CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5084B86C-886E-4A79-93A8-8CFD9F2057CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AC1D52E-BF62-47F9-970C-EECB48A8C93B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC1D52E-BF62-47F9-970C-EECB48A8C93B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC1D52E-BF62-47F9-970C-EECB48A8C93B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC1D52E-BF62-47F9-970C-EECB48A8C93B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49C1CEEC-1933-49DF-B0AD-B914EBF768B6}
+	EndGlobalSection
+EndGlobal
